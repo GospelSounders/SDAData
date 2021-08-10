@@ -14,7 +14,11 @@ let main = async () =>{
     })
     for(let title in index){
         let number = index[title]
-        fs.renameSync(`${}`)
+        title = title.replace(/\?/g, '')
+        try{
+        fs.renameSync(`../SDAHymnalsMidiExtracted/${title}.mid`, `../SDAHymnalsMidiExtracted/${number}.mid`)
+        fs.renameSync(`../SDAHymnalsPhotos/${title}.png`, `../SDAHymnalsPhotos/${number}.png`)
+        }catch(error){}
     }
     console.log(index)
     // console.log(numbers)
