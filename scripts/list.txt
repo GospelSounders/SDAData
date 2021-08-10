@@ -1,0 +1,1928 @@
+<key>A_Child_of_the_King</key>
+<string>468 A Child of the King
+<key>A_Diligent_and_Grateful_Heart</key>
+<string>639 A Diligent and Grateful Heart
+<key>A_Hymn_of_Glory_Let_Us_Sing</key>
+<string>228 A Hymn of Glory Let Us Sing
+<key>A_Mighty_Fortress</key>
+<string>506 A Mighty Fortress
+<key>A_Quiet_Place</key>
+<string>503 A Quiet Place
+<key>A_Shelter_in_the_Time_of_Storm</key>
+<string>528 A Shelter in the Time of Storm
+<key>A_Song_of_Heaven_and_Homeland</key>
+<string>472 A Song of Heaven and Homeland
+<key>Abide_With_Me</key>
+<string>50 Abide With Me
+<key>Abide_With_Me,_'Tis_Eventide</key>
+<string>46 Abide With Me, 'Tis Eventide
+<key>All_Creatures_of_Our_God_and_King</key>
+<string>2 All Creatures of Our God and King
+<key>All_Glory,_Laud,_and_Honor</key>
+<string>230 All Glory, Laud, and Honor
+<key>All_Hail_the_Power_of_Jesus'_Name</key>
+<string>229 All Hail the Power of Jesus' Name
+<key>All_My_Hope_on_God_Is_Founded</key>
+<string>5 All My Hope on God Is Founded
+<key>All_People_That_on_Earth_Do_Dwell</key>
+<string>16 All People That on Earth Do Dwell
+<key>All_Praise_to_Thee</key>
+<string>53 All Praise to Thee
+<key>All_That_Thrills_My_Soul</key>
+<string>189 All That Thrills My Soul
+<key>All_the_Way</key>
+<string>516 All the Way
+<key>All_Things_Are_Thine</key>
+<string>376 All Things Are Thine
+<key>All_Things_Bright_and_Beautiful</key>
+<string>93 All Things Bright and Beautiful
+<key>All_Things_Come_of_Thee</key>
+<string>665 All Things Come of Thee
+<key>All_Who_Love_and_Serve_Your_City</key>
+<string>All Who Love and Serve Your City
+<key>Alleluia!_Sing_to_Jesus!</key>
+<string>167 Alleluia! Sing to Jesus!
+<key>Almighty_Father</key>
+<string>693 Almighty Father
+<key>Am_I_a_Soldier_of_the_Cross</key>
+<string>609 Am I a Soldier of the Cross?
+<key>Amazing_Grace</key>
+<string>108 Amazing Grace
+<key>Amens</key>
+<string>663 Amens
+<key>America,_the_Beautiful</key>
+<string>America, the Beautiful
+<key>An_Upper_Room</key>
+<string>397 An Upper Room
+<key>And_Can_It_Be</key>
+<string>198 And Can It Be?
+<key>And_Have_the_Bright_Immensities</key>
+<string>168 And Have the Bright Immensities
+<key>Angels_From_the_Realms_of_Glory</key>
+<string>119 Angels From the Realms of Glory
+<key>Angels_We_Have_Heard_on_High</key>
+<string>142 Angels We Have Heard on High
+<key>Anywhere_With_Jesus</key>
+<string>508 Anywhere With Jesus
+<key>Arise,_My_Soul,_Arise!</key>
+<string>38 Arise, My Soul, Arise!
+<key>As_Birds_Unto_the_Genial_Homeland</key>
+<string>395 As Birds Unto the Genial Homeland
+<key>As_It_Fell_Upon_a_Night</key>
+<string>129 As It Fell Upon a Night
+<key>As_Jacob_With_Travel_Was_Weary</key>
+<string>628 As Jacob With Travel Was Weary
+<key>As_Pants_the_Hart</key>
+<string>113 As Pants the Hart
+<key>As_Saints_of_Old</key>
+<string>556 As Saints of Old
+<key>As_the_Bridegroom_to_His_Chosen</key>
+<string>459 As the Bridegroom to His Chosen
+<key>As_the_Deer</key>
+<string>As the Deer
+<key>As_Water_to_the_Thirsty</key>
+<string>460 As Water to the Thirsty
+<key>As_We_Come_to_You_in_Prayer</key>
+<string>671 As We Come to You in Prayer
+<key>As_With_Gladness_Men_of_Old</key>
+<string>123 As With Gladness Men of Old
+<key>As_You_Have_Promised,_Lord</key>
+<string>682 As You Have Promised, Lord
+<key>At_First_I_Prayed_for_Light</key>
+<string>488 At First I Prayed for Light
+<key>At_the_Cross</key>
+<string>163 At the Cross
+<key>At_the_Name_of_Jesus</key>
+<string>232 At the Name of Jesus
+<key>Awake,_Awake_to_Love_and_Work</key>
+<string>576 Awake, Awake to Love and Work
+<key>Awake,_My_Soul!</key>
+<string>611 Awake, My Soul!
+<key>Away_in_a_Manger_(Cradle)</key>
+<string>124 Away in a Manger (Cradle)
+<key>Away_in_a_Manger_(Murray)</key>
+<string>Away in a Manger (Murray)
+<key>Balm_in_Gilead</key>
+<string>475 Balm in Gilead
+<key>Baptize_Us_Anew</key>
+<string>258 Baptize Us Anew
+(Last vs.)
+<key>Be_Still,_My_Soul</key>
+<string>461 Be Still, My Soul
+<key>Be_Thou_My_Vision</key>
+<string>547 Be Thou My Vision
+<key>Beautiful_Zion</key>
+<string>450 Beautiful Zion
+<key>Because_He_Lives</key>
+<string>526 Because He Lives
+<key>Before_Jehovah's_Awful_Throne</key>
+<string>82 Before Jehovah's Awful Throne
+<key>Beneath_the_Cross_of_Jesus</key>
+<string>303 Beneath the Cross of Jesus
+<key>Beneath_the_Forms_of_Outward_Rite</key>
+<string>399 Beneath the Forms of Outward Rite
+<key>Bless_Thou_the_Gifts</key>
+<string>686 Bless Thou the Gifts
+<key>Blessed_Assurance,_Jesus_Is_Mine!</key>
+<string>462 Blessed Assurance, Jesus Is Mine!
+<key>Blessed_Jesus,_at_Thy_Word</key>
+<string>60 Blessed Jesus, at Thy Word
+<key>Blest_Be_the_King</key>
+<string>231 Blest Be the King
+<key>Blest_Be_the_Tie_That_Binds</key>
+<string>350 Blest Be the Tie That Binds
+<key>Bread_of_the_World</key>
+<string>398 Bread of the World
+<key>Break_Forth,_O_Beauteous_Heavenly_Light</key>
+<string>128 Break Forth, O Beauteous Heavenly Light
+<key>Break_Thou_the_Bread_of_Life</key>
+<string>271 Break Thou the Bread of Life
+<key>Breathe_on_Me,_Breath_of_God</key>
+<string>265 Breathe on Me, Breath of God
+<key>Brighten_the_Corner_Where_You_Are</key>
+<string>Brighten the Corner Where You Are
+<key>Bringing_in_the_Sheaves</key>
+<string>369 Bringing in the Sheaves
+<key>Built_on_the_Rock</key>
+<string>347 Built on the Rock
+<key>Burdens_Are_Lifted_at_Calvary</key>
+<string>476 Burdens Are Lifted at Calvary
+<key>By_Christ_Redeemed</key>
+<string>402 By Christ Redeemed
+<key>Can_You_Count_the_Stars</key>
+<string>98 Can You Count the Stars
+<key>Cares_Chorus</key>
+<string>Cares Chorus
+<key>Cast_Thy_Burden_Upon_the_Lord</key>
+<string>666 Cast Thy Burden Upon the Lord
+<key>Cause_Me_to_Hear</key>
+<string>685 Cause Me to Hear
+<key>Chief_of_Sinners</key>
+<string>295 Chief of Sinners
+<key>Children_of_the_Heavenly_Father</key>
+<string>101 Children of the Heavenly Father
+<key>Christ_for_the_World</key>
+<string>370 Christ for the World
+<key>Christ_Is_Alive</key>
+<string>182 Christ Is Alive
+<key>Christ_Is_Coming</key>
+<string>201 Christ Is Coming
+<key>Christ_Is_Made_the_Sure_Foundation</key>
+<string>235 Christ Is Made the Sure Foundation
+<key>Christ_Is_the_World's_Light</key>
+<string>234 Christ Is the World's Light
+<key>Christ_Is_the_World's_True_Light</key>
+<string>345 Christ Is the World's True Light
+<key>Christ_the_Lord_Is_Risen_Today</key>
+<string>166 Christ the Lord Is Risen Today
+<key>Christ_the_Lord,_All_Power_Possessing</key>
+<string>415 Christ the Lord, All Power Possessing
+(on the clouds)
+(on the clouds)
+(on the clouds)
+<key>Christ_Upon_the_Mountain_Peak</key>
+<string>147 Christ Upon the Mountain Peak
+<key>Christ,_Whose_Glory_Fills_the_Skies</key>
+<string>233 Christ, Whose Glory Fills the Skies
+<key>Christian,_Seek_Not_Repose</key>
+<string>603 Christian, Seek Not Repose
+<key>Come_Down,_O_Love_Divine</key>
+<string>257 Come Down, O Love Divine
+<key>Come,_All_Christians,_Be_Committed</key>
+<string>634 Come, All Christians, Be Committed
+<key>Come,_Christians,_Join_to_Sing</key>
+<string>10 Come, Christians, Join to Sing
+<key>Come,_Come,_Ye_Saints</key>
+<string>622 Come, Come, Ye Saints
+<key>Come,_Holy_Spirit</key>
+<string>269 Come, Holy Spirit
+<key>Come,_Labor_On</key>
+<string>357 Come, Labor On
+<key>Come,_Let_Us_Sing</key>
+<string>252 Come, Let Us Sing
+<key>Come,_My_Way</key>
+<string>247 Come, My Way
+<key>Come,_O_Sabbath_Day</key>
+<string>387 Come, O Sabbath Day
+<key>Come,_Sing_a_Song_of_Harvest</key>
+<string>562 Come, Sing a Song of Harvest
+<key>Come,_Thou_Almighty_King</key>
+<string>71 Come, Thou Almighty King
+<key>Come,_Thou_Fount_of_Every_Blessing</key>
+<string>334 Come, Thou Fount of Every Blessing
+<key>Come,_Thou_Long_Expected_Jesus</key>
+<string>204 Come, Thou Long Expected Jesus
+<key>Come,_Ye_Disconsolate</key>
+<string>477 Come, Ye Disconsolate
+<key>Come,_Ye_Sinners</key>
+<string>280 Come, Ye Sinners
+<key>Come,_Ye_Thankful_People</key>
+<string>557 Come, Ye Thankful People
+<key>Come,_You_Faithful_(Gesangbuch)</key>
+<string>170 Come, You Faithful (Gesangbuch)
+<key>Come,_You_Faithful_(Sullivan)</key>
+<string>169 Come, You Faithful (Sullivan)
+<key>Count_Your_Blessings</key>
+<string>Count Your Blessings
+<key>Cover_With_His_Life</key>
+<string>412 Cover With His Life
+<key>Creator_of_the_Stars_of_Night</key>
+<string>72 Creator of the Stars of Night
+<key>Crown_Him_With_Many_Crowns</key>
+<string>223 Crown Him With Many Crowns
+<key>Crowning_Jewel_of_Creation</key>
+<string>385 Crowning Jewel of Creation
+<key>Day_by_Day,_Dear_Lord</key>
+<string>689 Day by Day, Dear Lord
+<key>Day_by_Day</key>
+<string>532 Day by Day
+<key>Day_Is_Dying_in_the_West</key>
+<string>51 Day Is Dying in the West
+<key>Day_of_Judgment,_Day_of_Wonders!</key>
+<string>418 Day of Judgment, Day of Wonders!
+<key>Dear_Lord_and_Father_(Repton)</key>
+<string>480 Dear Lord and Father (Repton)
+<key>Dear_Lord_and_Father_(Rest)</key>
+<string>481 Dear Lord and Father (Rest)
+<key>Dear_Lord,_We_Come_at_Set_of_Sun</key>
+<string>392 Dear Lord, We Come at Set of Sun
+<key>Deeper_Yet</key>
+<string>302 Deeper Yet
+<key>Depth_of_Mercy</key>
+<string>521 Depth of Mercy
+<key>Dismiss_Us,_Lord,_With_Blessing</key>
+<string>690 Dismiss Us, Lord, With Blessing
+<key>Does_Jesus_Care</key>
+<string>181 Does Jesus Care?
+<key>Don't_Forget_the_Sabbath</key>
+<string>388 Don't Forget the Sabbath
+<key>Don't_You_See_My_Jesus_Coming</key>
+<string>454 Don't You See My Jesus Coming?
+<key>Draw_Me_Nearer</key>
+<string>306 Draw Me Nearer
+<key>Draw_Us_in_the_Spirit's_Tether</key>
+<string>259 Draw Us in the Spirit's Tether
+<key>Eternal_Father,_Strong_to_Save</key>
+<string>85 Eternal Father, Strong to Save
+<key>Eternal_God,_Whose_Power_Upholds</key>
+<string>90 Eternal God, Whose Power Upholds
+<key>Eternal_Love,_We_Have_No_Good</key>
+<string>496 Eternal Love, We Have No Good
+<key>Every_Flower_That_Grows</key>
+<string>550 Every Flower That Grows
+<key>Every_Star_Shall_Sing_a_Carol</key>
+<string>24 Every Star Shall Sing a Carol
+<key>Face_to_Face</key>
+<string>206 Face to Face
+<key>Fairest_Lord_Jesus</key>
+<string>240 Fairest Lord Jesus
+<key>Faith_Is_the_Victory</key>
+<string>608 Faith Is the Victory
+<key>Faith_of_Our_Fathers</key>
+<string>304 Faith of Our Fathers
+<key>Far_and_Near_the_Fields_Are_Teeming</key>
+<string>358 Far and Near the Fields Are Teeming
+<key>Far_From_All_Care</key>
+<string>394 Far From All Care
+<key>Father,_Help_Your_People</key>
+<string>353 Father, Help Your People
+<key>Father,_Lead_Me_Day_by_Day</key>
+<string>482 Father, Lead Me Day by Day
+<key>Father,_We_Thank_You</key>
+<string>566 Father, We Thank You
+<key>Father,_Who_on_Us_Do_Shower</key>
+<string>643 Father, Who on Us Do Shower
+<key>Fight_the_Good_Fight</key>
+<string>613 Fight the Good Fight
+<key>Fill_My_Cup,_Lord</key>
+<string>493 Fill My Cup, Lord
+<key>Fire_of_God,_Thou_Sacred_Flame</key>
+<string>263 Fire of God, Thou Sacred Flame
+<key>For_All_the_Saints</key>
+<string>421 For All the Saints
+<key>For_Beauty_of_Meadows</key>
+<string>640 For Beauty of Meadows
+<key>For_God_So_Loved_the_World</key>
+<string>For God So Loved the World
+<key>For_God_So_Loved_Us</key>
+<string>78 For God So Loved Us
+<key>For_Sunrise_Hope_and_Sunset_Calm</key>
+<string>564 For Sunrise Hope and Sunset Calm
+<key>For_the_Beauty_of_the_Earth</key>
+<string>565 For the Beauty of the Earth
+<key>For_the_Fruits_of_His_Creation</key>
+<string>558 For the Fruits of His Creation
+<key>For_Thee,_O_Dear,_Dear_Country</key>
+<string>424 For Thee, O Dear, Dear Country
+<key>For_You_I_Am_Praying</key>
+<string>284 For You I Am Praying
+<key>For_Your_Holy_Book_We_Thank_You</key>
+<string>277 For Your Holy Book We Thank You
+<key>Forgive_Our_Sins_as_We_Forgive</key>
+<string>299 Forgive Our Sins as We Forgive
+<key>From_Every_Stormy_Wind</key>
+<string>527 From Every Stormy Wind
+<key>From_the_Eastern_Mountains</key>
+<string>360 From the Eastern Mountains
+<key>Fruitful_Trees,_the_Spirit's_Sowing</key>
+<string>414 Fruitful Trees, the Spirit's Sowing
+<key>Gentle_Jesus,_Meek_and_Mild</key>
+<string>540 Gentle Jesus, Meek and Mild
+<key>Give_Me_Jesus</key>
+<string>305 Give Me Jesus
+<key>Give_Me_the_Bible</key>
+<string>272 Give Me the Bible
+<key>Give_of_Your_Best_to_the_Master</key>
+<string>572 Give of Your Best to the Master
+<key>Give_Thanks</key>
+<string>Give Thanks
+<key>Give_to_Our_God_Immortal_Praise</key>
+<string>106 Give to Our God Immortal Praise
+<key>Give_to_the_Winds_Your_Fears</key>
+<string>519 Give to the Winds Your Fears
+<key>Gleams_of_the_Golden_Morning</key>
+<string>205 Gleams of the Golden Morning
+<key>Glorious_Things_of_Thee_Are_Spoken</key>
+<string>423 Glorious Things of Thee Are Spoken
+<key>Glory_Be_to_the_Father</key>
+<string>660 Glory Be to the Father
+<key>Go_Forth,_Go_Forth_With_Christ</key>
+<string>377 Go Forth, Go Forth With Christ
+<key>Go_to_Dark_Gethsemane</key>
+<string>157 Go to Dark Gethsemane
+<key>Go,_Preach_My_Gospel</key>
+<string>378 Go, Preach My Gospel
+<key>Go,_Tell_It_on_the_Mountain</key>
+<string>121 Go, Tell It on the Mountain
+<key>God_Be_in_My_Head_(Coombs)</key>
+<string>679 God Be in My Head
+<key>God_Be_in_My_Head_(Davies)</key>
+<string>678 God Be in My Head
+<key>God_Be_Merciful_to_Me</key>
+<string>297 God Be Merciful to Me
+<key>God_Be_With_You_(Randolph)</key>
+<string>66 God Be With You
+<key>God_Be_With_You</key>
+<string>65 God Be With You
+<key>God_Has_Spoken_by_His_Prophets</key>
+<string>413 God Has Spoken by His Prophets
+<key>God_Himself_Is_With_Us</key>
+<string>3 God Himself Is With Us
+<key>God_in_His_Love_for_Us</key>
+<string>641 God in His Love for Us
+<key>God_Is_Here!</key>
+<string>61 God Is Here!
+<key>God_Is_Love</key>
+<string>349 God Is Love
+<key>God_Is_My_Strong_Salvation</key>
+<string>339 God Is My Strong Salvation
+<key>God_Is_Our_Song</key>
+<string>22 God Is Our Song
+<key>God_Is_Working_His_Purpose_Out</key>
+<string>225 God Is Working His Purpose Out
+<key>God_Moves_in_a_Mysterious_Way</key>
+<string>107 God Moves in a Mysterious Way
+<key>God_of_Grace_and_God_of_Glory</key>
+<string>607 God of Grace and God of Glory
+<key>God_of_Our_Fathers</key>
+<string>645 God of Our Fathers
+<key>God_the_Omnipotent</key>
+<string>84 God the Omnipotent
+<key>God_Who_Spoke_in_the_Beginning</key>
+<string>87 God Who Spoke in the Beginning
+<key>God_Will_Take_Care_of_You</key>
+<string>99 God Will Take Care of You
+<key>God,_Who_Made_the_Earth_and_Heaven</key>
+<string>47 God, Who Made the Earth and Heaven
+<key>God,_Who_Stretched_the_Spangled_Heavens</key>
+<string>536 God, Who Stretched the Spangled Heavens
+<key>God,_Whose_Giving_Knows_No_Ending</key>
+<string>636 God, Whose Giving Knows No Ending
+<key>God's_Way_Is_the_Best_Way</key>
+<string>God's Way Is the Best Way
+<key>God's_Free_Mercy_Streameth</key>
+<string>110 God's Free Mercy Streameth
+<key>Good_Christian_Friends,_Rejoice!</key>
+<string>173 Good Christian Friends, Rejoice!
+<key>Good_Christians,_Now_Rejoice</key>
+<string>136 Good Christians, Now Rejoice
+<key>Gracious_Father,_Guard_Thy_Children</key>
+<string>621 Gracious Father, Guard Thy Children
+<key>Grant_Us_Your_Peace</key>
+<string>471 Grant Us Your Peace
+<key>Great_Is_Thy_Faithfulness</key>
+<string>100 Great Is Thy Faithfulness
+<key>Great_Our_Joy_as_Now_We_Gather</key>
+<string>59 Great Our Joy as Now We Gather
+<key>Guide_Me,_O_Thou_Great_Jehovah</key>
+<string>538 Guide Me, O Thou Great Jehovah
+<key>Hail_Him_the_King_of_Glory</key>
+<string>202 Hail Him the King of Glory
+<key>Hail_the_Day_That_Sees_Him_Rise</key>
+<string>176 Hail the Day That Sees Him Rise
+<key>Happy_the_Home_That_Welcomes_You</key>
+<string>222 Happy the Home That Welcomes You
+<key>Happy_the_Home</key>
+<string>655 Happy the Home
+<key>Hark!_Ten_Thousand_Harps_and_Voices</key>
+<string>222 Hark! Ten Thousand Harps and Voices
+<key>Hark!_the_Herald_Angels_Sing</key>
+<string>122 Hark! the Herald Angels Sing
+<key>Hark!_the_Voice_of_Jesus_Calling</key>
+<string>359 Hark! the Voice of Jesus Calling
+<key>Hark!_'Tis_the_Shepherd's_Voice_I_Hear</key>
+<string>361 Hark! 'Tis the Shepherd's Voice I Hear
+<key>Hark,_the_Vesper_Hymn_Is_Stealing</key>
+<string>58 Hark, the Vesper Hymn Is Stealing
+<key>Have_Thine_Own_Way,_Lord</key>
+<string>567 Have Thine Own Way, Lord
+<key>He_Hideth_My_Soul</key>
+<string>520 He Hideth My Soul
+<key>He_Leadeth_Me</key>
+<string>537 He Leadeth Me
+<key>He_Lives</key>
+<string>251 He Lives
+<key>Hear_Our_Prayer,_O_Lord</key>
+<string>684 Hear Our Prayer, O Lord
+<key>Heavenly_Father,_Bless_Us_Now</key>
+<string>293 Heavenly Father, Bless Us Now
+<key>Heavenly_Father,_Hear_Our_Prayer</key>
+<string>658 Heavenly Father, Hear Our Prayer
+<key>Heavenly_Father,_to_Thee_We_Pray</key>
+<string>677 Heavenly Father, to Thee We Pray
+<key>Heir_of_the_Kingdom</key>
+<string>594 Heir of the Kingdom
+<key>Hiding_in_Thee</key>
+<string>525 Hiding in Thee
+<key>Higher_Ground</key>
+<string>625 Higher Ground
+<key>His_Eye_Is_On_the_Sparrow</key>
+<string>His Eye Is On the Sparrow
+<key>Hold_Fast_Till_I_Come</key>
+<string>600 Hold Fast Till I Come
+<key>Holy_God,_We_Praise_Your_Name</key>
+<string>30 Holy God, We Praise Your Name
+<key>Holy_Sabbath_Day_of_Rest</key>
+<string>381 Holy Sabbath Day of Rest
+<key>Holy_Spirit,_Gracious_Guest</key>
+<string>589 Holy Spirit, Gracious Guest
+<key>Holy_Spirit,_Hear_Us</key>
+<string>680 Holy Spirit, Hear Us
+<key>Holy_Spirit,_Light_Divine</key>
+<string>268 Holy Spirit, Light Divine
+<key>Holy,_Holy,_Holy_(Schubert)</key>
+<string>661 Holy, Holy, Holy
+<key>Holy,_Holy,_Holy</key>
+<string>73 Holy, Holy, Holy
+<key>Holy,_Holy,_Is_What_the_Angels_Sing</key>
+<string>425 Holy, Holy, Is What the Angels Sing
+<key>Hover_O'er_Me,_Holy_Spirit</key>
+<string>260 Hover O'er Me, Holy Spirit
+<key>How_Beauteous_Are_Their_Feet</key>
+<string>372 How Beauteous Are Their Feet
+<key>How_Cheering_Is_the_Christian's_Hope</key>
+<string>440 How Cheering Is the Christian's Hope
+<key>How_Far_From_Home</key>
+<string>439 How Far From Home?
+<key>How_Firm_a_Foundation</key>
+<string>509 How Firm a Foundation
+<key>How_Great_Thou_Art</key>
+<string>86 How Great Thou Art
+<key>How_Lovely_Is_Thy_Dwelling_Place</key>
+<string>62 How Lovely Is Thy Dwelling Place
+<key>How_Sweet_Are_the_Tidings</key>
+<string>442 How Sweet Are the Tidings
+<key>How_Sweet_the_Name!</key>
+<string>238 How Sweet the Name!
+<key>I_Am_Coming_to_the_Cross</key>
+<string>307 I Am Coming to the Cross
+<key>I_Am_Going_to_Calvary</key>
+<string>288 I Am Going to Calvary
+<key>I_Am_So_Glad_That_Our_Father</key>
+<string>I Am So Glad That Our Father
+<key>I_Am_Trusting_Thee,_Lord_Jesus</key>
+<string>535 I Am Trusting Thee, Lord Jesus
+<key>I_Cannot_Tell_Why</key>
+<string>255 I Cannot Tell Why
+<key>I_Come_With_Joy</key>
+<string>400 I Come With Joy
+<key>I_Do_Believe</key>
+<string>486 I Do Believe
+<key>I_Gave_My_Life_for_Thee</key>
+<string>281 I Gave My Life for Thee
+<key>I_Hear_Thy_Welcome_Voice</key>
+<string>184 I Hear Thy Welcome Voice
+<key>I_Heard_the_Voice_of_Jesus</key>
+<string>184 I Heard the Voice of Jesus
+<key>I_Know_Who_Holds_Tomorrow</key>
+<string>I Know Who Holds Tomorrow
+<key>I_Know_Whom_I_Have_Believed</key>
+<string>511 I Know Whom I Have Believed
+<key>I_Lay_My_Sins_on_Jesus</key>
+<string>298 I Lay My Sins on Jesus
+<key>I_Love_Thee</key>
+<string>236 I Love Thee
+<key>I_Love_to_Tell_the_Story</key>
+<string>457 I Love to Tell the Story
+<key>I_Love_You,_Lord</key>
+<string>I Love You, Lord
+<key>I_Love_Your_Kingdom,_Lord</key>
+<string>344 I Love Your Kingdom, Lord
+<key>I_Must_Tell_Jesus</key>
+<string>485 I Must Tell Jesus
+<key>I_Need_the_Prayers</key>
+<string>505 I Need the Prayers
+<key>I_Need_Thee_Every_Hour</key>
+<string>483 I Need Thee Every Hour
+<key>I_Need_Thee,_Precious_Jesus</key>
+<string>484 I Need Thee, Precious Jesus
+<key>I_Saw_One_Weary</key>
+<string>441 I Saw One Weary
+<key>I_Shall_See_the_King</key>
+<string>426 I Shall See the King
+<key>I_Sing_the_Mighty_Power_of_God</key>
+<string>88 I Sing the Mighty Power of God
+<key>I_Surrender_All</key>
+<string>309 I Surrender All
+<key>I_Think_When_I_Read_That_Sweet_Story</key>
+<string>146 I Think When I Read That Sweet Story
+<key>I_Vow_to_Thee,_My_Country</key>
+<string>648 I Vow to Thee, My Country
+<key>I_Want_Jesus_to_Walk_With_Me</key>
+<string>624 I Want Jesus to Walk With Me
+<key>I_Will_Early_Seek_the_Savior</key>
+<string>539 I Will Early Seek the Savior
+<key>I_Will_Follow_Thee</key>
+<string>623 I Will Follow Thee
+<key>I_Will_Sing_of_Jesus'_Love</key>
+<string>183 I Will Sing of Jesus' Love
+<key>I_Will_Sing_of_My_Redeemer</key>
+<string>343 I Will Sing of My Redeemer
+<key>I_Would_Be_Like_Jesus</key>
+<string>311 I Would Be Like Jesus
+<key>I_Would_Draw_Nearer_to_Jesus</key>
+<string>308 I Would Draw Nearer to Jesus
+<key>I'd_Rather_Have_Jesus</key>
+<string>310 I'd Rather Have Jesus
+<key>If_You_But_Trust_in_God_to_Guide_You</key>
+<string>510 If You But Trust in God to Guide You
+<key>I'll_Go_Where_You_Want_Me_to_Go</key>
+<string>573 I'll Go Where You Want Me to Go
+<key>I'm_a_Pilgrim</key>
+<string>444 I'm a Pilgrim
+<key>I'm_But_a_Stranger_Here</key>
+<string>445 I'm But a Stranger Here
+<key>I'm_Going_Home</key>
+<string>437 I'm Going Home
+<key>Immortal_Love,_Forever_Full</key>
+<string>455 Immortal Love, Forever Full
+<key>Immortal,_Invisible,_God_Only_Wise</key>
+<string>21 Immortal, Invisible, God Only Wise
+<key>In_a_Little_While_We're_Going_Home</key>
+<string>626 In a Little While We're Going Home
+<key>In_Christ_There_Is_No_East_nor_West</key>
+<string>587 In Christ There Is No East nor West
+<key>In_Heavenly_Love_Abiding</key>
+<string>513 In Heavenly Love Abiding
+<key>In_Imitation,_Lord_of_Thee</key>
+<string>401 In Imitation, Lord of Thee
+<key>In_Our_Work_and_in_Our_Play</key>
+<string>591 In Our Work and in Our Play
+<key>In_the_Bleak_Midwinter</key>
+<string>126 In the Bleak Midwinter
+<key>In_the_Cross_of_Christ_I_Glory</key>
+<string>237 In the Cross of Christ I Glory
+<key>In_the_Garden</key>
+<string>487 In the Garden
+<key>In_the_Heart_of_Jesus</key>
+<string>577 In the Heart of Jesus
+<key>In_the_Hour_of_Trial</key>
+<string>491 In the Hour of Trial
+<key>In_Times_Like_These</key>
+<string>593 In Times Like These
+<key>Infant_Holy,_Infant_Lowly</key>
+<string>127 Infant Holy, Infant Lowly
+<key>Is_This_a_Day_of_New_Beginnings?</key>
+<string>342 Is This a Day of New Beginnings?
+<key>It_Came_Upon_the_Midnight_Clear</key>
+<string>130 It Came Upon the Midnight Clear
+<key>It_Is_Well_With_My_Soul</key>
+<string>530 It Is Well With My Soul
+<key>It_May_Be_at_Morn</key>
+<string>207 It May Be at Morn
+<key>It_Took_a_Miracle</key>
+<string>111 It Took a Miracle
+<key>I've_Found_a_Friend</key>
+<string>186 I've Found a Friend
+<key>I've_Got_Peace_Like_a_River</key>
+<string>I've Got Peace Like a River
+<key>Jacob's_Ladder</key>
+<string>627 Jacob's Ladder
+<key>Jerusalem_the_Golden</key>
+<string>429 Jerusalem the Golden
+<key>Jerusalem,_My_Happy_Home</key>
+<string>420 Jerusalem, My Happy Home
+<key>Jesus_Calls_Us</key>
+<string>285 Jesus Calls Us
+<key>Jesus_Invites_His_Saints</key>
+<string>409 Jesus Invites His Saints
+<key>Jesus_Is_All_the_World_to_Me</key>
+<string>185 Jesus Is All the World to Me
+<key>Jesus_Is_Calling</key>
+<string>Jesus Is Calling
+<key>Jesus_Is_Coming_Again</key>
+<string>213 Jesus Is Coming Again
+<key>Jesus_Loves_Me</key>
+<string>190 Jesus Loves Me
+<key>Jesus_Paid_It_All</key>
+<string>184 Jesus Paid It All
+<key>Jesus_Saves</key>
+<string>340 Jesus Saves
+<key>Jesus_Shall_Reign</key>
+<string>227 Jesus Shall Reign
+<key>Jesus_Walked_This_Lonesome_Valley</key>
+<string>151 Jesus Walked This Lonesome Valley
+<key>Jesus,_Friend_of_Little_Children</key>
+<string>543 Jesus, Friend of Little Children
+<key>Jesus,_Friend_So_Kind</key>
+<string>542 Jesus, Friend So Kind
+<key>Jesus,_Guide_Our_Way</key>
+<string>553 Jesus, Guide Our Way
+<key>Jesus,_I_Come</key>
+<string>292 Jesus, I Come
+<key>Jesus,_I_My_Cross_Have_Taken</key>
+<string>325 Jesus, I My Cross Have Taken
+<key>Jesus,_Lover_of_My_Soul_(Dykes)</key>
+<string>490 Jesus, Lover of My Soul
+<key>Jesus,_Lover_of_My_Soul</key>
+<string>489 Jesus, Lover of My Soul
+<key>Jesus,_Priceless_Treasure</key>
+<string>239 Jesus, Priceless Treasure
+<key>Jesus,_Savior,_Pilot_Me</key>
+<string>551 Jesus, Savior, Pilot Me
+<key>Jesus,_Son_of_Blessed_Mary</key>
+<string>544 Jesus, Son of Blessed Mary
+<key>Jesus,_Stand_Among_Us</key>
+<string>683 Jesus, Stand Among Us
+<key>Jesus,_Tender_Shepherd,_Hear_Me</key>
+<string>55 Jesus, Tender Shepherd, Hear Me
+<key>Jesus,_the_Very_Thought_of_Thee</key>
+<string>241 Jesus, the Very Thought of Thee
+<key>Jesus,_Thou_Joy_of_Loving_Hearts</key>
+<string>242 Jesus, Thou Joy of Loving Hearts
+<key>Jesus,_What_a_Friend_for_Sinners</key>
+<string>187 Jesus, What a Friend for Sinners
+<key>Jesus,_With_Thy_Church_Abide</key>
+<string>374 Jesus, With Thy Church Abide
+<key>Jesus,_Your_Blood_and_Righteousness</key>
+<string>177 Jesus, Your Blood and Righteousness
+<key>Joy_By_and_By</key>
+<string>430 Joy By and By
+<key>Joy_to_the_World</key>
+<string>125 Joy to the World
+<key>Joyful,_Joyful,_We_Adore_Thee</key>
+<string>12 Joyful, Joyful, We Adore Thee
+<key>Just_a_Closer_Walk_with_Thee</key>
+<string>Just a Closer Walk with Thee
+<key>Just_as_I_Am_(Walden)</key>
+<string>313 Just as I Am
+<key>Just_as_I_Am,_Thine_Own_to_Be</key>
+<string>324 Just as I Am, Thine Own to Be
+<key>Just_as_I_Am</key>
+<string>314 Just as I Am
+<key>Just_Over_the_Mountains</key>
+<string>Just Over the Mountains
+<key>Just_When_I_Need_Him_Most</key>
+<string>512 Just When I Need Him Most
+<key>King_of_Glory,_King_of_Peace</key>
+<string>243 King of Glory, King of Peace
+<key>Lead_Me_Gently_Home,_Father</key>
+<string>317 Lead Me Gently Home, Father
+<key>Lead_Me_to_Calvary</key>
+<string>317 Lead Me to Calvary
+<key>Lead_Me,_Lord</key>
+<string>691 Lead Me, Lord
+<key>Lead_On,_O_King_Eternal</key>
+<string>619 Lead On, O King Eternal
+<key>Lead_Them,_My_God,_to_Thee</key>
+<string>653 Lead Them, My God, to Thee
+<key>Leaning_on_the_Everlasting_Arms</key>
+<string>469 Leaning on the Everlasting Arms
+<key>Let_All_Mortal_Flesh_Keep_Silence</key>
+<string>662 Let All Mortal Flesh Keep Silence
+<key>Let_All_on_Earth_Their_Voices_Raise</key>
+<string>89 Let All on Earth Their Voices Raise
+<key>Let_All_the_World_in_Every_Corner_Sing</key>
+<string>9 Let All the World in Every Corner Sing
+<key>Let_All_Things_Now_Living</key>
+<string>560 Let All Things Now Living
+<key>Let_Every_Lamp_Be_Burning</key>
+<string>595 Let Every Lamp Be Burning
+<key>Let_There_Be_Peace_on_Earth</key>
+<string>Let There Be Peace on Earth
+<key>Let_Us_Break_Bread_Together</key>
+<string>403 Let Us Break Bread Together
+<key>Let_Us_Praise_the_Name_of_the_Lord</key>
+<string>14 Let Us Praise the Name of the Lord
+<key>Let_Us_With_a_Gladsome_Mind</key>
+<string>112 Let Us With a Gladsome Mind
+<key>Let_Your_Heart_Be_Broken</key>
+<string>575 Let Your Heart Be Broken
+<key>Life_Is_Great!_So_Sing_About_It</key>
+<string>467 Life Is Great! So Sing About It
+<key>Lift_High_the_Cross</key>
+<string>362 Lift High the Cross
+<key>Lift_Him_Up</key>
+<string>371 Lift Him Up
+<key>Lift_Up_Your_Heads</key>
+<string>226 Lift Up Your Heads
+<key>Light_of_Light,_Enlighten_Me</key>
+<string>389 Light of Light, Enlighten Me
+<key>Like_a_River_Glorious</key>
+<string>74 Like a River Glorious
+<key>Like_Jesus</key>
+<string>492 Like Jesus
+<key>Live_Out_Thy_Life_Within_Me</key>
+<string>316 Live Out Thy Life Within Me
+<key>Lo!_He_Comes</key>
+<string>211 Lo! He Comes
+<key>Lo,_How_a_Rose_E'er_Blooming</key>
+<string>131 Lo, How a Rose E'er Blooming
+<key>Lo,_What_a_Glorious_Sight_Appears</key>
+<string>446 Lo, What a Glorious Sight Appears
+<key>Long_Upon_the_Mountains</key>
+<string>447 Long Upon the Mountains
+<key>Look_for_the_Waymarks</key>
+<string>596 Look for the Waymarks
+<key>Look,_You_Saints!_the_Sight_Is_Glorious</key>
+<string>165 Look, You Saints! the Sight Is Glorious
+<key>Lord_God,_Your_Love_Has_Called_Us_Here</key>
+<string>396 Lord God, Your Love Has Called Us Here
+<key>Lord_Jesus,_Once_You_Spoke_to_Men</key>
+<string>278 Lord Jesus, Once You Spoke to Men
+<key>Lord_Jesus,_Think_on_Me</key>
+<string>504 Lord Jesus, Think on Me
+<key>Lord_of_All_Being,_Throned_Afar</key>
+<string>17 Lord of All Being, Throned Afar
+<key>Lord_of_All_Good</key>
+<string>635 Lord of All Good
+<key>Lord_of_All_Nations</key>
+<string>588 Lord of All Nations
+<key>Lord_of_Creation</key>
+<string>320 Lord of Creation
+<key>Lord_of_Our_Life</key>
+<string>514 Lord of Our Life
+<key>Lord_of_the_Boundless_Curves_of_Space</key>
+<string>97 Lord of the Boundless Curves of Space
+<key>Lord_of_the_Sabbath</key>
+<string>393 Lord of the Sabbath
+<key>Lord,_Bless_Our_Homes</key>
+<string>654 Lord, Bless Our Homes
+<key>Lord,_Bless_Thy_Word_to_Every_Heart</key>
+<string>667 Lord, Bless Thy Word to Every Heart
+<key>Lord,_Dismiss_Us_With_Thy_Blessing</key>
+<string>64 Lord, Dismiss Us With Thy Blessing
+<key>Lord,_Enthroned_in_Heavenly_Splendor</key>
+<string>408 Lord, Enthroned in Heavenly Splendor
+<key>Lord,_I_Have_Made_Thy_Word_My_Choice</key>
+<string>273 Lord, I Have Made Thy Word My Choice
+<key>Lord,_I_Want_to_Be_a_Christian</key>
+<string>319 Lord, I Want to Be a Christian
+<key>Lord,_I'm_Coming_Home</key>
+<string>296 Lord, I'm Coming Home
+<key>Lord,_in_the_Morning</key>
+<string>39 Lord, in the Morning
+<key>Lord,_Make_Us_More_Holy</key>
+<string>69 Lord, Make Us More Holy
+<key>Lord,_Speak_to_Me</key>
+<string>541 Lord, Speak to Me
+<key>Lord,_While_for_All_Mankind</key>
+<string>649 Lord, While for All Mankind
+<key>Lord,_Who_Dost_Give_to_Thy_Church</key>
+<string>346 Lord, Who Dost Give to Thy Church
+<key>Lord,_Whose_Love_in_Humble_Service</key>
+<string>363 Lord, Whose Love in Humble Service
+<key>Love_at_Home</key>
+<string>652 Love at Home
+<key>Love_Consecrates_the_Humblest_Act</key>
+<string>406 Love Consecrates the Humblest Act
+<key>Love_Divine</key>
+<string>191 Love Divine
+<key>Love_Lifted_Me</key>
+<string>Love Lifted Me
+<key>Loving_Shepherd_of_Thy_Sheep</key>
+<string>549 Loving Shepherd of Thy Sheep
+<key>Make_Me_a_Captive,_Lord</key>
+<string>568 Make Me a Captive, Lord
+<key>Marching_to_Zion</key>
+<string>422 Marching to Zion
+<key>Marvelous_Grace</key>
+<string>109 Marvelous Grace
+<key>Master,_the_Tempest_Is_Raging</key>
+<string>Master, the Tempest Is Raging
+<key>May_God_Be_With_You</key>
+<string>673 May God Be With You
+<key>May_the_Grace_of_Christ_Our_Savior</key>
+<string>659 May the Grace of Christ Our Savior
+<key>May_the_Lord_Bless_and_Keep_You</key>
+<string>675 May the Lord Bless and Keep You
+<key>Mine_Eyes_Have_Seen_the_Glory</key>
+<string>647 Mine Eyes Have Seen the Glory
+<key>Moment_by_Moment</key>
+<string>507 Moment by Moment
+<key>More_About_Jesus</key>
+<string>245 More About Jesus
+<key>More_Love_to_Thee</key>
+<string>458 More Love to Thee
+<key>Morning_Has_Broken</key>
+<string>44 Morning Has Broken
+<key>Must_Jesus_Bear_the_Cross_Alone</key>
+<string>328 Must Jesus Bear the Cross Alone
+<key>My_Faith_Has_Found_a_Resting_Place</key>
+<string>523 My Faith Has Found a Resting Place
+<key>My_Faith_Looks_Up_to_Thee</key>
+<string>517 My Faith Looks Up to Thee
+<key>My_God_and_I</key>
+<string>456 My God and I
+<key>My_Hope_Is_Built_on_Nothing_Less</key>
+<string>522 My Hope Is Built on Nothing Less
+<key>My_Jesus,_I_Love_Thee</key>
+<string>321 My Jesus, I Love Thee
+<key>My_Lord_and_I</key>
+<string>456 My Lord and I
+<key>My_Maker_and_My_King</key>
+<string>15 My Maker and My King
+<key>My_Shepherd_Will_Supply_My_Need</key>
+<string>104 My Shepherd Will Supply My Need
+<key>My_Song_Is_Love_Unknown</key>
+<string>188 My Song Is Love Unknown
+<key>My_Song_Shall_Be_of_Jesus</key>
+<string>244 My Song Shall Be of Jesus
+<key>My_Soul,_Be_on_Thy_Guard</key>
+<string>605 My Soul, Be on Thy Guard
+<key>Nature_With_Open_Volume_Stands</key>
+<string>94 Nature With Open Volume Stands
+<key>Near_the_Cross</key>
+<string>312 Near the Cross
+<key>Near_to_the_Heart_of_God</key>
+<string>495 Near to the Heart of God
+<key>Nearer_My_God,_to_Thee</key>
+<string>473 Nearer My God, to Thee
+<key>Nearer,_Still_Nearer</key>
+<string>301 Nearer, Still Nearer
+<key>Never_Part_Again</key>
+<string>449 Never Part Again
+<key>New_Songs_of_Celebration_Render</key>
+<string>13 New Songs of Celebration Render
+<key>No_Night_There</key>
+<string>427 No Night There
+<key>Not_I,_but_Christ</key>
+<string>570 Not I, but Christ
+<key>Now_I_Belong_to_Jesus</key>
+<string>Now I Belong to Jesus
+<key>Nothing_Between</key>
+<string>322 Nothing Between
+<key>Now_All_the_Woods_Are_Sleeping</key>
+<string>57 Now All the Woods Are Sleeping
+<key>Now_Is_Born_the_Divine_Christ_Child</key>
+<string>133 Now Is Born the Divine Christ Child
+<key>Now_Let_Us_From_This_Table_Rise</key>
+<string>404 Now Let Us From This Table Rise
+<key>Now_Praise_the_Hidden_God_of_Love</key>
+<string>548 Now Praise the Hidden God of Love
+<key>Now_Thank_We_All_Our_God</key>
+<string>559 Now Thank We All Our God
+<key>Now_That_the_Daylight_Fills_the_Sky</key>
+<string>42 Now That the Daylight Fills the Sky
+<key>Now_the_Day_Is_Over</key>
+<string>52 Now the Day Is Over
+<key>Now_the_Green_Blade_Rises</key>
+<string>175 Now the Green Blade Rises
+<key>Now_the_Joyful_Bells_A-Ringing</key>
+<string>23 Now the Joyful Bells A-Ringing
+<key>O_Brother,_Be_Faithful</key>
+<string>602 O Brother, Be Faithful
+<key>O_Come,_All_Ye_Faithful</key>
+<string>132 O Come, All Ye Faithful
+<key>O_Come,_Let_Us_Sing_to_the_Lord</key>
+<string>63 O Come, Let Us Sing to the Lord
+<key>O_Come,_O_Come,_Immanuel</key>
+<string>115 O Come, O Come, Immanuel
+<key>O_Day_of_Rest_and_Gladness_(German)</key>
+<string>383 O Day of Rest and Gladness
+<key>O_Day_of_Rest_and_Gladness_(Hofkapelle)</key>
+<string>382 O Day of Rest and Gladness
+<key>O_for_a_Closer_Walk!</key>
+<string>315 O for a Closer Walk!
+<key>O_for_a_Faith</key>
+<string>533 O for a Faith
+<key>O_for_a_Heart_to_Praise_My_God!</key>
+<string>323 O for a Heart to Praise My God!
+<key>O_for_a_Thousand_Tongues_to_Sing</key>
+<string>250 O for a Thousand Tongues to Sing
+<key>O_for_That_Flame_of_Living_Fire</key>
+<string>264 O for That Flame of Living Fire
+<key>O_Gladsome_Light</key>
+<string>54 O Gladsome Light
+<key>O_God_of_Light</key>
+<string>275 O God of Light
+<key>O_God,_From_Whom_Mankind</key>
+<string>657 O God, From Whom Mankind
+<key>O_God,_Our_Help</key>
+<string>103 O God, Our Help
+<key>O_God,_Unseen,_Yet_Ever_Near</key>
+<string>405 O God, Unseen, Yet Ever Near
+<key>O_God,_Whose_Will_Is_Life_and_Good</key>
+<string>644 O God, Whose Will Is Life and Good
+<key>O_Gracious_Father_of_Mankind</key>
+<string>497 O Gracious Father of Mankind
+<key>O_Happy_Band_of_Pilgrims</key>
+<string>629 O Happy Band of Pilgrims
+<key>O_Holy_Dove_of_God_Descending</key>
+<string>270 O Holy Dove of God Descending
+<key>O_Jesus_Christ,_to_You</key>
+<string>364 O Jesus Christ, to You
+<key>O_Jesus_Sweet</key>
+<string>134 O Jesus Sweet
+<key>O_Jesus,_I_Have_Promised</key>
+<string>331 O Jesus, I Have Promised
+<key>O_Jesus,_Thou_Art_Standing</key>
+<string>283 O Jesus, Thou Art Standing
+<key>O_Let_Me_Walk_With_Thee</key>
+<string>554 O Let Me Walk With Thee
+<key>O_Listen_to_Our_Wondrous_Story</key>
+<string>180 O Listen to Our Wondrous Story
+(Who but God's Son upon the cross?)
+<key>O_Little_Town_of_Bethlehem</key>
+<string>135 O Little Town of Bethlehem
+<key>O_Lord,_Now_Let_Your_Servant</key>
+<string>67 O Lord, Now Let Your Servant
+<key>O_Love_of_God_Most_Full</key>
+<string>77 O Love of God Most Full
+<key>O_Love_of_God,_How_Strong_and_True!</key>
+<string>79 O Love of God, How Strong and True!
+<key>O_Love_That_Wilt_Not_Let_Me_Go</key>
+<string>76 O Love That Wilt Not Let Me Go
+<key>O_Love,_How_Deep,_How_Broad</key>
+<string>148 O Love, How Deep, How Broad
+<key>O_Master,_Let_Me_Walk_With_Thee</key>
+<string>574 O Master, Let Me Walk With Thee
+<key>O_Morning_Star,_How_Fair_and_Bright</key>
+<string>18 O Morning Star, How Fair and Bright
+<key>O_Perfect_Love</key>
+<string>656 O Perfect Love
+<key>O_Praise_Ye_the_Lord</key>
+<string>20 O Praise Ye the Lord
+<key>O_Sacred_Head_Now_Wounded</key>
+<string>156 O Sacred Head Now Wounded
+<key>O_Shepherd_Divine</key>
+<string>192 O Shepherd Divine
+<key>O_Sing_a_New_Song_to_the_Lord</key>
+<string>19 O Sing a New Song to the Lord
+<key>O_Sing_a_Song_of_Bethlehem</key>
+<string>144 O Sing a Song of Bethlehem
+<key>O_Sing,_My_Soul,_Your_Maker's_Praise</key>
+<string>37 O Sing, My Soul, Your Maker's Praise
+<key>O_Solemn_Thought</key>
+<string>417 O Solemn Thought
+<key>O_Splendor_of_God's_Glory_Bright</key>
+<string>41 O Splendor of God's Glory Bright
+<key>O_Thou_in_Whose_Presence</key>
+<string>36 O Thou in Whose Presence
+<key>O_Thou_Who_Hearest</key>
+<string>668 O Thou Who Hearest
+<key>O_Where_Are_the_Reapers</key>
+<string>366 O Where Are the Reapers?
+<key>O_Word_of_God_Incarnate</key>
+<string>274 O Word of God Incarnate
+<key>O_World_of_God</key>
+<string>80 O World of God
+<key>O_Worship_the_King</key>
+<string>83 O Worship the King
+<key>O_Worship_the_Lord</key>
+<string>6 O Worship the Lord
+<key>O_Zion,_Haste</key>
+<string>365 O Zion, Haste
+<key>O,_How_I_Love_Jesus</key>
+<string>248 O, How I Love Jesus
+<key>O,_When_Shall_I_See_Jesus</key>
+<string>448 O, When Shall I See Jesus
+<key>Of_the_Father's_Love_Begotten</key>
+<string>116 Of the Father's Love Begotten
+<key>Oh,_We_Are_the_Pathfinders_Strong</key>
+<string>Oh, We Are the Pathfinders Strong
+<key>On_Jordan's_Banks_the_Baptist's_Cry</key>
+<string>333 On Jordan's Banks the Baptist's Cry
+<key>On_Jordan's_Stormy_Banks</key>
+<string>620 On Jordan's Stormy Banks
+<key>On_Our_Way_Rejoicing</key>
+<string>68 On Our Way Rejoicing
+<key>Once_in_Royal_David's_City</key>
+<string>149 Once in Royal David's City
+<key>Once_to_Every_Man_and_Nation</key>
+<string>606 Once to Every Man and Nation
+<key>Only_Trust_Him</key>
+<string>279 Only Trust Him
+<key>Onward,_Christian_Soldiers!</key>
+<string>612 Onward, Christian Soldiers!
+<key>Open_My_Eyes_That_I_May_See</key>
+<string>326 Open My Eyes That I May See
+<key>Open_Now_Thy_Gates_of_Beauty</key>
+<string>45 Open Now Thy Gates of Beauty
+<key>Our_Father,_by_Whose_Name</key>
+<string>650 Our Father, by Whose Name
+<key>Over_Yonder</key>
+<string>431 Over Yonder
+<key>Pass_It_On</key>
+<string>Pass It On
+<key>Pass_Me_Not,_O_Gentle_Savior</key>
+<string>569 Pass Me Not, O Gentle Savior
+<key>Peace,_Perfect_Peace</key>
+<string>463 Peace, Perfect Peace
+<key>Power_in_the_Blood</key>
+<string>294 Power in the Blood
+<key>Praise_and_Thanksgiving</key>
+<string>563 Praise and Thanksgiving
+<key>Praise_God,_From_Whom_All_Blessings_(alternate)</key>
+<string>695 Praise God, From Whom All Blessings
+<key>Praise_God,_From_Whom_All_Blessings</key>
+<string>694 Praise God, From Whom All Blessings
+<key>Praise_Him!_Praise_Him!</key>
+<string>249 Praise Him! Praise Him!
+<key>Praise_the_Lord!_You_Heavens_Adore_Him</key>
+<string>26 Praise the Lord! You Heavens Adore Him
+<key>Praise_the_Lord,_His_Glories_Show</key>
+<string>25 Praise the Lord, His Glories Show
+<key>Praise_to_the_Lord</key>
+<string>1 Praise to the Lord
+<key>Praise_We_the_Lord</key>
+<string>28 Praise We the Lord
+<key>Praise_Ye_the_Father</key>
+<string>70 Praise Ye the Father
+<key>Praise,_My_Soul,_the_King_of_Heaven</key>
+<string>4 Praise, My Soul, the King of Heaven
+<key>Prince_of_Peace,_Control_My_Will</key>
+<string>153 Prince of Peace, Control My Will
+<key>Proclaim_His_Grace</key>
+<string>Proclaim His Grace
+<key>Redeemed!_(Butler)</key>
+<string>338 Redeemed!
+<key>Redeemed!_(Kirkpatrick)</key>
+<string>337 Redeemed!
+<key>Rejoice,_Rejoice,_Believers</key>
+<string>599 Rejoice, Rejoice, Believers
+<key>Rejoice,_the_Lord_Is_King</key>
+<string>221 Rejoice, the Lord Is King
+<key>Rejoice,_Ye_Pure_in_Heart!</key>
+<string>27 Rejoice, Ye Pure in Heart!
+<key>Rescue_the_Perishing</key>
+<string>367 Rescue the Perishing
+<key>Ride_On_in_Majesty</key>
+<string>160 Ride On in Majesty
+<key>Rise_Up,_O_Church_of_God</key>
+<string>615 Rise Up, O Church of God
+<key>Rise_Up,_Shepherd,_and_Follow</key>
+<string>138 Rise Up, Shepherd, and Follow
+<key>Rise,_My_Soul,_and_Stretch_Thy_Wings</key>
+<string>630 Rise, My Soul, and Stretch Thy Wings
+<key>Rock_of_Ages</key>
+<string>300 Rock of Ages
+<key>Safe_in_the_Arms_of_Jesus</key>
+<string>Safe in the Arms of Jesus
+<key>Safely_Through_Another_Week</key>
+<string>384 Safely Through Another Week
+<key>Saved_by_Grace</key>
+<string>Saved by Grace
+<key>Savior,_Breathe_an_Evening_Blessing</key>
+<string>49 Savior, Breathe an Evening Blessing
+<key>Savior,_Like_a_Shepherd</key>
+<string>545 Savior, Like a Shepherd
+<key>Savior,_Teach_Me</key>
+<string>193 Savior, Teach Me
+<key>Seek_Ye_First_the_Kingdom</key>
+<string>224 Seek Ye First the Kingdom
+<key>Seeking_the_Lost</key>
+<string>373 Seeking the Lost
+<key>Send_the_Light</key>
+<string>Send the Light
+<key>Sent_Forth_by_God's_Blessing</key>
+<string>407 Sent Forth by God's Blessing
+<key>Sevenfold_Amen</key>
+<string>664 Sevenfold Amen
+<key>Shall_We_Gather_at_the_River</key>
+<string>432 Shall We Gather at the River
+<key>Shalom</key>
+<string>674 Shalom
+(Alternate Version) 
+<key>Shepherd_of_Tender_Youth</key>
+<string>555 Shepherd of Tender Youth
+<key>Showers_of_Blessing</key>
+<string>195 Showers of Blessing
+<key>Side_by_Side</key>
+<string>Side by Side
+<key>Silent_Night,_Holy_Night</key>
+<string>143 Silent Night, Holy Night
+<key>Sing_a_New_Song_to_the_Lord</key>
+<string>33 Sing a New Song to the Lord
+<key>Sing_Praise_to_God</key>
+<string>29 Sing Praise to God
+<key>Sing_to_the_Great_Jehovah's_Praise</key>
+<string>105 Sing to the Great Jehovah's Praise
+<key>Sing_We_of_the_Modern_City</key>
+<string>194 Sing We of the Modern City
+<key>So_Send_I_You</key>
+<string>578 So Send I You
+<key>Softly_and_Tenderly</key>
+<string>287 Softly and Tenderly
+<key>Softly_Now_the_Light_of_Day</key>
+<string>48 Softly Now the Light of Day
+<key>Soldiers_of_Christ,_Arise</key>
+<string>616 Soldiers of Christ, Arise
+<key>Son_of_God,_Eternal_Savior</key>
+<string>637 Son of God, Eternal Savior
+<key>Songs_of_Thankfulness_and_Praise</key>
+<string>145 Songs of Thankfulness and Praise
+<key>Soon_Shall_the_Trump_of_God</key>
+<string>419 Soon Shall the Trump of God
+<key>Sound_the_Battle_Cry</key>
+<string>614 Sound the Battle Cry
+<key>Spirit_Divine</key>
+<string>267 Spirit Divine
+<key>Spirit_of_God</key>
+<string>266 Spirit of God
+<key>Spirit_of_the_Living_God</key>
+<string>672 Spirit of the Living God
+<key>Spring_Has_Now_Unwrapped_the_Flowers</key>
+<string>95 Spring Has Now Unwrapped the Flowers
+<key>Stand_Like_the_Brave</key>
+<string>610 Stand Like the Brave
+<key>Stand_Up!_Stand_Up_for_Jesus!</key>
+<string>618 Stand Up! Stand Up for Jesus!
+<key>Standing_on_the_Promises</key>
+<string>518 Standing on the Promises
+<key>Star_of_Our_Hope</key>
+<string>174 Star of Our Hope
+<key>Still,_Still_With_Thee</key>
+<string>498 Still, Still With Thee
+<key>Sun_of_My_Soul</key>
+<string>502 Sun of My Soul
+<key>Surely,_Surely</key>
+<string>688 Surely, Surely
+<key>Sweet_By_and_By</key>
+<string>428 Sweet By and By
+<key>Sweet_Hour_of_Prayer</key>
+<string>478 Sweet Hour of Prayer
+<key>Sweet,_Sweet_Spirit</key>
+<string>262 Sweet, Sweet Spirit
+<key>Sweeter_As_The_Years_Go_By</key>
+<string>Sweeter As The Years Go By
+<key>Take_My_Life_and_Let_It_Be</key>
+<string>330 Take My Life and Let It Be
+<key>Take_the_Name_of_Jesus_With_You</key>
+<string>474 Take the Name of Jesus With You
+<key>Take_the_World,_but_Give_Me_Jesus</key>
+<string>329 Take the World, but Give Me Jesus
+<key>Take_Time_to_Be_Holy</key>
+<string>500 Take Time to Be Holy
+<key>Tell_Me_the_Old,_Old_Story</key>
+<string>196 Tell Me the Old, Old Story
+<key>Tell_Me_the_Story_of_Jesus</key>
+<string>152 Tell Me the Story of Jesus
+<key>Tell_Out,_My_Soul</key>
+<string>31 Tell Out, My Soul
+<key>Ten_Thousand_Times_Ten_Thousand</key>
+<string>433 Ten Thousand Times Ten Thousand
+<key>Thanks_to_God</key>
+<string>276 Thanks to God
+<key>That_Glorious_Day_Is_Coming</key>
+<string>209 That Glorious Day Is Coming
+<key>The_Advent_of_Our_God</key>
+<string>117 The Advent of Our God
+<key>The_Church_Has_One_Foundation</key>
+<string>348 The Church Has One Foundation
+<key>The_Church_Has_Waited_Long</key>
+<string>217 The Church Has Waited Long
+<key>The_Cleansing_Wave</key>
+<string>332 The Cleansing Wave
+<key>The_Dawn_of_God's_Dear_Sabbath</key>
+<string>40 The Dawn of God's Dear Sabbath
+<key>The_Day_Thou_Gavest</key>
+<string>56 The Day Thou Gavest
+<key>The_Family_of_God</key>
+<string>The Family of God
+<key>The_First_Noel</key>
+<string>118 The First Noel
+<key>The_Glory_Song</key>
+<string>435 The Glory Song
+<key>The_God_of_Abraham_Praise</key>
+<string>11 The God of Abraham Praise
+<key>The_Great_Physician_Now_Is_Near</key>
+<string>254 The Great Physician Now Is Near
+<key>The_Head_That_Once_Was_Crowned</key>
+<string>199 The Head That Once Was Crowned
+<key>The_Homeland</key>
+<string>436 The Homeland
+<key>The_Judgment_Has_Set</key>
+<string>416 The Judgment Has Set
+<key>The_King_of_Love_My_Shepherd_Is</key>
+<string>197 The King of Love My Shepherd Is
+<key>The_King_Shall_Come</key>
+<string>215 The King Shall Come
+<key>The_Lord_Bless_You_and_Keep_You</key>
+<string>669 The Lord Bless You and Keep You
+<key>The_Lord_in_Zion_Reigneth</key>
+<string>7 The Lord in Zion Reigneth
+<key>The_Lord_Is_Coming</key>
+<string>200 The Lord Is Coming
+<key>The_Lord_Is_in_His_Holy_Temple_(Beltz)</key>
+<string>The Lord Is in His Holy Temple
+<key>The_Lord_Is_in_His_Holy_Temple</key>
+<string>692 The Lord Is in His Holy Temple
+<key>The_Lord_Is_My_Light</key>
+<string>687 The Lord Is My Light
+<key>The_Lord's_My_Shepherd_(Irvine)</key>
+<string>552 The Lord's My Shepherd
+<key>The_Lord's_My_Shepherd_(James_Air)</key>
+<string>546 The Lord's My Shepherd
+<key>The_Love_of_God</key>
+<string>The Love of God
+<key>The_Old_Rugged_Cross</key>
+<string>159 The Old Rugged Cross
+<key>The_Sacred_Anthem</key>
+<string>386 The Sacred Anthem
+<key>The_Savior_Is_Waiting</key>
+<string>289 The Savior Is Waiting
+<key>The_Son_of_God_Proclaim</key>
+<string>411 The Son of God Proclaim
+<key>The_Spacious_Firmament</key>
+<string>96 The Spacious Firmament
+<key>The_Spirit_of_the_Lord_Revealed</key>
+<string>261 The Spirit of the Lord Revealed
+<key>The_Strife_Is_O'er</key>
+<string>172 The Strife Is O'er
+(To be sung before stanza 1 and after stanza 4)
+<key>The_Unveiled_Christ</key>
+<string>178 The Unveiled Christ
+<key>The_Wise_May_Bring_Their_Learning</key>
+<string>638 The Wise May Bring Their Learning
+<key>The_Wonder_of_It_All</key>
+<string>75 The Wonder of It All
+<key>The_Wonders_of_Redeeming_Love</key>
+<string>179 The Wonders of Redeeming Love
+<key>There_Is_a_Fountain</key>
+<string>336 There Is a Fountain
+<key>There_Is_a_Green_Hill_Far_Away</key>
+<string>164 There Is a Green Hill Far Away
+<key>There'll_Be_No_Dark_Valley</key>
+<string>208 There'll Be No Dark Valley
+<key>There'll_Be_No_Sorrow_There</key>
+<string>443 There'll Be No Sorrow There
+<key>There's_a_Song_in_the_Air</key>
+<string>428 There's a Song in the Air
+<key>There's_a_Spirit_in_the_Air</key>
+<string>584 There's a Spirit in the Air
+<key>There's_a_Wideness</key>
+<string>114 There's a Wideness
+<key>There's_No_Other_Name_Like_Jesus</key>
+<string>253 There's No Other Name Like Jesus
+<key>There's_Sunshine_in_My_Soul_Today</key>
+<string>470 There's Sunshine in My Soul Today
+<key>There's_Within_My_Heart_a_Melody</key>
+<string>There's Within My Heart a Melody
+<key>Thine_Is_the_Glory</key>
+<string>171 Thine Is the Glory
+<key>This_Is_My_Father's_World</key>
+<string>92 This Is My Father's World
+<key>This_Is_My_Will</key>
+<string>352 This Is My Will
+<key>This_Is_the_Day_the_Lord_Hath_Made</key>
+<string>681 This Is the Day the Lord Hath Made
+<key>This_Is_the_Threefold_Truth</key>
+<string>203 This Is the Threefold Truth
+<key>This_Little_Light_of_Mine</key>
+<string>580 This Little Light of Mine
+<key>Thou_Didst_Leave_Thy_Throne</key>
+<string>140 Thou Didst Leave Thy Throne
+<key>Though_I_Speak_With_Tongues</key>
+<string>81 Though I Speak With Tongues
+<key>Throned_Upon_the_Awful_Tree</key>
+<string>161 Throned Upon the Awful Tree
+<key>Thy_Broken_Body,_Gracious_Lord</key>
+<string>410 Thy Broken Body, Gracious Lord
+<key>Thy_Hand,_O_God_Has_Guided</key>
+<string>351 Thy Hand, O God Has Guided
+<key>Thy_Love,_O_God</key>
+<string>354 Thy Love, O God
+<key>Thy_Word_Is_a_Lantern</key>
+<string>676 Thy Word Is a Lantern
+<key>'Tis_Almost_Time_for_the_Lord_to_Come</key>
+<string>212 'Tis Almost Time for the Lord to Come
+<key>'Tis_Love_That_Makes_Us_Happy</key>
+<string>579 'Tis Love That Makes Us Happy
+<key>'Tis_So_Sweet_to_Trust_in_Jesus</key>
+<string>524 'Tis So Sweet to Trust in Jesus
+<key>'Tis_the_Blessed_Hour_of_Prayer</key>
+<string>501 'Tis the Blessed Hour of Prayer
+<key>To_God_Be_the_Glory</key>
+<string>341 To God Be the Glory
+<key>To_the_Name_That_Brings_Salvation</key>
+<string>646 To the Name That Brings Salvation
+<key>Together_Let_Us_Sweetly_Live</key>
+<string>451 Together Let Us Sweetly Live
+<key>Tread_Softly</key>
+<string>479 Tread Softly
+<key>Trust_and_Obey</key>
+<string>590 Trust and Obey
+<key>Turn_Your_Eyes_Upon_Jesus</key>
+<string>290 Turn Your Eyes Upon Jesus
+<key>Under_His_Wings</key>
+<string>529 Under His Wings
+<key>Until_Then</key>
+<string>632 Until Then
+<key>Unto_the_Hills</key>
+<string>102 Unto the Hills
+<key>Wake_the_Song</key>
+<string>34 Wake the Song
+<key>Wake,_Awake,_for_Night_Is_Flying</key>
+<string>210 Wake, Awake, for Night Is Flying
+<key>Watch,_Ye_Saints</key>
+<string>598 Watch, Ye Saints
+<key>Watchman,_Blow_the_Gospel_Trumpet</key>
+<string>368 Watchman, Blow the Gospel Trumpet
+<key>Watchman,_Tell_Us_of_the_Night</key>
+<string>592 Watchman, Tell Us of the Night
+<key>Watchmen,_on_the_Walls_of_Zion</key>
+<string>601 Watchmen, on the Walls of Zion
+<key>We_Are_Living,_We_Are_Dwelling</key>
+<string>617 We Are Living, We Are Dwelling
+<key>We_Gather_Together</key>
+<string>8 We Gather Together
+<key>We_Give_Thee_But_Thine_Own</key>
+<string>670 We Give Thee But Thine Own
+<key>We_Give_This_Child_to_You</key>
+<string>379 We Give This Child to You
+<key>We_Have_Heard</key>
+<string>453 We Have Heard
+<key>We_Have_Not_Known_Thee</key>
+<string>291 We Have Not Known Thee
+<key>We_Have_This_Hope</key>
+<string>214 We Have This Hope
+<key>We_Know_Not_the_Hour</key>
+<string>604 We Know Not the Hour
+<key>We_Love_Thy_Sabbath,_Lord</key>
+<string>390 We Love Thy Sabbath, Lord
+<key>We_Plow_the_Fields</key>
+<string>561 We Plow the Fields
+<key>We_Praise_Thee_With_Our_Minds</key>
+<string>642 We Praise Thee With Our Minds
+<key>We_Speak_of_the_Realms</key>
+<string>434 We Speak of the Realms
+<key>We_Three_Kings</key>
+<string>137 We Three Kings
+<key>We_Would_See_Jesus</key>
+<string>494 We Would See Jesus
+<key>Welcome,_Day_of_Sweet_Repose</key>
+<string>380 Welcome, Day of Sweet Repose
+<key>Welcome,_Welcome,_Day_of_Rest</key>
+<string>391 Welcome, Welcome, Day of Rest
+<key>We'll_Build_on_the_Rock</key>
+<string>531 We'll Build on the Rock
+<key>Were_You_There</key>
+<string>158 Were You There?
+<key>We've_a_Story_to_Tell_to_the_Nations</key>
+<string>We've a Story to Tell to the Nations
+<key>What_a_Friend_We_Have_in_Jesus</key>
+<string>499 What a Friend We Have in Jesus
+<key>What_a_Wonderful_Savior</key>
+<string>335 What a Wonderful Savior
+<key>What_Child_Is_This</key>
+<string>141 What Child Is This?
+<key>What_Does_the_Lord_Require</key>
+<string>571 What Does the Lord Require?
+<key>What_Heavenly_Music</key>
+<string>452 What Heavenly Music
+<key>What_Joy_It_Is_to_Worship_Here</key>
+<string>586 What Joy It Is to Worship Here
+<key>When_Christ_Was_Lifted_From_the_Earth</key>
+<string>162 When Christ Was Lifted From the Earth
+<key>When_He_Comes</key>
+<string>220 When He Comes
+<key>When_He_Cometh</key>
+<string>218 When He Cometh
+<key>When_I_Can_Read_My_Title_Clear</key>
+<string>464 When I Can Read My Title Clear
+<key>When_I_Survey_the_Wondrous_Cross_(Miller)</key>
+<string>155 When I Survey the Wondrous Cross
+<key>When_I_Survey_the_Wondrous_Cross</key>
+<string>154 When I Survey the Wondrous Cross
+<key>When_in_Our_Music_God_Is_Glorified</key>
+<string>32 When in Our Music God Is Glorified
+<key>When_Jesus_Comes_in_Glory</key>
+<string>219 When Jesus Comes in Glory
+<key>When_Morning_Gilds_the_Skies</key>
+<string>43 When Morning Gilds the Skies
+<key>When_on_Life_a_Darkness_Falls</key>
+<string>631 When on Life a Darkness Falls
+<key>When_the_Church_of_Jesus</key>
+<string>581 When the Church of Jesus
+<key>When_the_Roll_Is_Called_Up_Yonder</key>
+<string>216 When the Roll Is Called Up Yonder
+<key>When_We_All_Get_to_Heaven</key>
+<string>633 When We All Get to Heaven
+<key>Where_Cross_the_Crowded_Ways_of_Life</key>
+<string>590 Where Cross the Crowded Ways of Life
+<key>While_Shepherds_Watched_Their_Flocks</key>
+<string>139 While Shepherds Watched Their Flocks
+<key>Whiter_Than_Snow</key>
+<string>318 Whiter Than Snow
+<key>Who_Is_He_in_Yonder_Stall</key>
+<string>150 Who Is He in Yonder Stall?
+<key>Wholly_Thine</key>
+<string>308 Wholly Thine
+<key>Will_Jesus_Find_Us_Watching</key>
+<string>Will Jesus Find Us Watching
+<key>Will_There_Be_Any_Stars_In_My_Crown</key>
+<string>Will There Be Any Stars In My Crown
+<key>Will_Your_Anchor_Hold</key>
+<string>534 Will Your Anchor Hold?
+<key>With_Songs_and_Honors</key>
+<string>35 With Songs and Honors
+<key>Wonderful_Peace</key>
+<string>466 Wonderful Peace
+<key>Wonderful_Words_of_Life</key>
+<string>286 Wonderful Words of Life
+<key>Wondrous_Love</key>
+<string>162 Wondrous Love
+<key>Work,_for_the_Night_Is_Coming</key>
+<string>375 Work, for the Night Is Coming
+<key>Working,_O_Christ,_With_Thee</key>
+<string>582 Working, O Christ, With Thee
+<key>Worthy,_Worthy_Is_the_Lamb</key>
+<string>246 Worthy, Worthy Is the Lamb
+<key>Ye_Servants_of_God</key>
+<string>256 Ye Servants of God
+<key>Ye_Servants_of_the_Lord</key>
+<string>597 Ye Servants of the Lord
+<key>Ye_Watchers_and_Ye_Holy_Ones</key>
+<string>91 Ye Watchers and Ye Holy Ones
+<key>Yield_Not_to_Temptation</key>
+<string>Yield Not to Temptation
+<key>You_That_Know_the_Lord</key>
+<string>583 You That Know the Lord
+<key>You_Will_See_Your_Lord_A-Coming</key>
+<string>438 You Will See Your Lord A-Coming
+<key>696_I_Will_Extol_The_Lord</key>
+<string>696 I Will Extol The Lord
+<key>697_Shout_With_Joy_To_God_All_The_Earth</key>
+<string>697 Shout With Joy To God All The Earth
+<key>698_How_Lovely_Is_Thy_Dwelling_Place_(RR)</key>
+<string>698 How Lovely Is Thy Dwelling Place (RR)
+<key>699_O_Come_Let_Us_Sing_Unto_The_Lord</key>
+<string>699 O Come Let Us Sing Unto The Lord
+<key>700_Oh_Sing_To_The_Lord_A_New_Song</key>
+<string>700 Oh Sing To The Lord A New Song
+<key>701_Shout_Joyfully_To_The_Lord</key>
+<string>701 Shout Joyfully To The Lord
+<key>702_Give_Thanks_To_The_Lord</key>
+<string>702 Give Thanks To The Lord
+<key>703_Praise_The_Lord_You_That_Are_His_Servants</key>
+<string>703 Praise The Lord You That Are His Servants
+<key>704_If_I_Lift_Up_My_Eyes_To_The_Hills</key>
+<string>704 If I Lift Up My Eyes To The Hills
+<key>705_I_Will_Exalt_You,_My_God_The_King</key>
+<string>705 I Will Exalt You, My God The King
+<key>706_Let_Heaven_Praise_The_Lord</key>
+<string>706 Let Heaven Praise The Lord
+<key>707_O_Praise_God_In_His_Holy_Place</key>
+<string>707 O Praise God In His Holy Place
+<key>708_Praise_At_God's_Throne</key>
+<string>708 Praise At God's Throne
+<key>709_Trinity</key>
+<string>709 Trinity
+<key>710_Bow_Down_Your_Ear_O_Lord_Hear_Me</key>
+<string>710 Bow Down Your Ear O Lord Hear Me
+<key>711_Praise_The_Lord_O_My_Soul</key>
+<string>711 Praise The Lord O My Soul
+<key>712_His_Love_Endures</key>
+<string>712 His Love Endures
+<key>713_Love_Of_God</key>
+<string>713 Love Of God
+<key>714_O_Lord_How_Majestic_Is_Your_Name</key>
+<string>714 O Lord How Majestic Is Your Name
+<key>715_I_Will_Extol_The_Lord_With_All_My_Heart</key>
+<string>715 I Will Extol The Lord With All My Heart
+<key>716_The_Liberating_Creator</key>
+<string>716 The Liberating Creator
+<key>717_The_Heavens_Declare_The_Glory_Of_God</key>
+<string>717 The Heavens Declare The Glory Of God
+<key>718_Rejoice_In_The_Lord</key>
+<string>718 Rejoice In The Lord
+<key>719_Our_Lord_The_Creator</key>
+<string>719 Our Lord The Creator
+<key>720_God_Is_Our_Refuge_And_Strength</key>
+<string>720 God Is Our Refuge And Strength
+<key>721_Lord_You_Have_Been_Our_Refuge</key>
+<string>721 Lord You Have Been Our Refuge
+<key>722_He_That_Dwelleth_In_The_Secret_Place</key>
+<string>722 He That Dwelleth In The Secret Place
+<key>723_O_Give_Thanks_To_The_Lord_For_He_Is_Good</key>
+<string>723 O Give Thanks To The Lord For He Is Good
+<key>724_O_Lord_You_Have_Searched_Me</key>
+<string>724 O Lord You Have Searched Me
+<key>725_God_Works_For_Good</key>
+<string>725 God Works For Good
+<key>726_The_Lord_Is_My_Shepherd</key>
+<string>726 The Lord Is My Shepherd
+<key>727_The_Lord_Is_My_Light</key>
+<string>727 The Lord Is My Light
+<key>728_Let_The_Redeemed_Thank_The_Lord</key>
+<string>728 Let The Redeemed Thank The Lord
+<key>729_The_Saviour_Is_Coming</key>
+<string>729 The Saviour Is Coming
+<key>730_The_Birth_Of_Christ</key>
+<string>730 The Birth Of Christ
+<key>731_The_Visit_Of_The_Wise_Men</key>
+<string>731 The Visit Of The Wise Men
+<key>732_Jesus'_Prayer_For_His_Disciples</key>
+<string>732 Jesus' Prayer For His Disciples
+<key>733_Christ's_Sufferings_And_Death-I</key>
+<string>733 Christ's Sufferings And Death-I
+<key>734_Christ's_Sufferings_And_Death-II</key>
+<string>734 Christ's Sufferings And Death-II
+<key>735_The_Resurrection_Of_Jesus</key>
+<string>735 The Resurrection Of Jesus
+<key>736_The_Glorified_Christ</key>
+<string>736 The Glorified Christ
+<key>737_The_Ascension</key>
+<string>737 The Ascension
+[Jesus] showed himself to these men after his death, and gave ample proof that he was alive: over a period of forty days he appeared to them and taught them about the kingdom of God.
+<key>738_Our_Understanding_Priest</key>
+<string>738 Our Understanding Priest
+<key>739_Christ's_Priesthood</key>
+<string>739 Christ's Priesthood
+<key>740_Christ_The_Deliverer</key>
+<string>740 Christ The Deliverer
+<key>741_The_Shepherd_Cares_For_His_People</key>
+<string>741 The Shepherd Cares For His People
+<key>742_The_Lord_Works_Justice</key>
+<string>742 The Lord Works Justice
+<key>743_Seeking_The_Lost_(RR)</key>
+<string>743 Seeking The Lost (RR)
+<key>744_The_Good_Shepherd</key>
+<string>744 The Good Shepherd
+<key>745_The_Christian's_Assurance</key>
+<string>745 The Christian's Assurance
+<key>746_Signs_Of_Christ's_Coming</key>
+<string>746 Signs Of Christ's Coming
+<key>747_Christ's_Second_Coming</key>
+<string>747 Christ's Second Coming
+<key>748_Reward_Of_The_Saints</key>
+<string>748 Reward Of The Saints
+<key>749_A_Song_Of_Triumph</key>
+<string>749 A Song Of Triumph
+<key>750_Reigning_Forever_With_God</key>
+<string>750 Reigning Forever With God
+<key>751_O_Lord_Thou_Art_My_God</key>
+<string>751 O Lord Thou Art My God
+<key>752_The_Holy_Spirit</key>
+<string>752 The Holy Spirit
+<key>753_God's_Word</key>
+<string>753 God's Word
+<key>754_The_Holy_Scriptures</key>
+<string>754 The Holy Scriptures
+<key>755_The_Call</key>
+<string>755 The Call
+<key>756_Have_Mercy_On_Me_O_God</key>
+<string>756 Have Mercy On Me O God
+<key>757_Returning_To_God</key>
+<string>757 Returning To God
+[Jesus] said: &quot;There was once a man who had two sons; and the younger said to his father, 'Father, give me my share of the property.' So he divided his estate between them.
+<key>758_Blessed_Is_He_Whose_Transgressions_Are_Forgiven</key>
+<string>758 Blessed Is He Whose Transgressions Are Forgiven
+<key>759_Baptism</key>
+<string>759 Baptism
+<key>760_Times_Of_Beginning</key>
+<string>760 Times Of Beginning
+<key>761_Righteousness_By_Faith</key>
+<string>761 Righteousness By Faith
+<key>762_Justification</key>
+<string>762 Justification
+[Jesus] was delivered over to death for our sins and was raised to life for our justification.
+<key>763_Sanctification</key>
+<string>763 Sanctification
+<key>764_Reconciliation</key>
+<string>764 Reconciliation
+<key>765_Conversion</key>
+<string>765 Conversion
+<key>766_The_Great_Controversy</key>
+<string>766 The Great Controversy
+<key>767_The_Body_Of_Christ</key>
+<string>767 The Body Of Christ
+<key>768_Mission_Of_The_Church</key>
+<string>768 Mission Of The Church
+<key>769_The_Sabbath-I</key>
+<string>769 The Sabbath-1
+[Jesus] said to them, &quot;The Sabbath was made for man, and not man for the Sabbath. Therefore the Son of Man is also Lord of the Sabbath.&quot;
+<key>770_The_Sabbath-II</key>
+<string>770 The Sabbath-2
+[Jesus] went to Nazareth, where he had been brought up, and on the Sabbath day he went into the synagogue, as was his custom.
+<key>771_Living_Bread</key>
+<string>771 Living Bread
+<key>772_Memorial_Of_Humility</key>
+<string>772 Memorial Of Humility
+<key>773_The_Lord's_Supper</key>
+<string>773 The Lord's Supper
+<key>774_The_Law_Of_The_Lord_Is_Perfect</key>
+<string>774 The Law Of The Lord Is Perfect
+<key>775_The_Ten_Commandments</key>
+<string>775 The Ten Commandments
+<key>776_Gifts_Of_The_Spirit</key>
+<string>776 Gifts Of The Spirit
+<key>777_Christian_Unity</key>
+<string>777 Christian Unity
+<key>778_Our_Atoning_Judge</key>
+<string>778 Our Atoning Judge
+<key>779_Day_Of_Judgment</key>
+<string>779 Day Of Judgment
+<key>780_The_Three_Angels'_Messages</key>
+<string>780 The Three Angels' Messages
+<key>781_The_Resurrection_Of_God's_People</key>
+<string>781 The Resurrection Of God's People
+<key>782_Assurance_Of_Eternal_Life</key>
+<string>782 Assurance Of Eternal Life
+<key>783_A_New_Heaven_And_A_New_Earth</key>
+<string>783 A New Heaven And A New Earth
+<key>784_Blessed_Is_The_Man</key>
+<string>784 Blessed Is The Man
+<key>785_The_Earth_Is_The_Lord's</key>
+<string>785 The Earth Is The Lord's
+<key>786_The_New_Life</key>
+<string>786 The New Life
+<key>787_Christianity_In_Practice</key>
+<string>787 Christianity In Practice
+<key>788_Love</key>
+<string>788 Love
+<key>789_Growing_In_Christ_(Sanctification)</key>
+<string>789 Growing In Christ (Sanctification)
+<key>790_The_Children_Of_God</key>
+<string>790 The Children Of God
+<key>791_Set_Your_Mind_On_God's_Kingdom</key>
+<string>791 Set Your Mind On God's Kingdom
+<key>792_The_Path_Of_Life</key>
+<string>792 The Path Of Life
+<key>793_Happy_Are_All_Who_Fear_The_Lord</key>
+<string>793 Happy Are All Who Fear The Lord
+<key>794_Wisdom</key>
+<string>794 Wisdom
+<key>795_The_Christian_Life</key>
+<string>795 The Christian Life
+<key>796_Hope_And_Comfort</key>
+<string>796 Hope And Comfort
+<key>797_Meditation</key>
+<string>797 Meditation
+<key>798_Prayer</key>
+<string>798 Prayer
+<key>799_Do_Not_Worry</key>
+<string>799 Do Not Worry
+<key>800_Union_With_Christ</key>
+<string>800 Union With Christ
+<key>801_I_Waited_Patiently_For_The_Lord</key>
+<string>801 I Waited Patiently For The Lord
+<key>802_Guidance</key>
+<string>802 Guidance
+<key>803_Praise_Is_Rightfully_Yours</key>
+<string>803 Praise Is Rightfully Yours
+<key>804_A_Prayer_Of_Confession</key>
+<string>804 A Prayer Of Confession
+<key>805_Humility</key>
+<string>805 Humility
+<key>806_Arise_Shine</key>
+<string>806 Arise Shine
+<key>807_The_Lord's_Work</key>
+<string>807 The Lord's Work
+<key>808_Doing_Good_To_All</key>
+<string>808 Doing Good To All
+<key>809_Christian_Duties</key>
+<string>809 Christian Duties
+<key>810_Work_And_Duty</key>
+<string>810 Work And Duty
+<key>811_Peace</key>
+<string>811 Peace
+<key>812_Christian_Relationships</key>
+<string>812 Christian Relationships
+<key>813_Lord_Who_May_Dwell_In_Your_Sanctuary</key>
+<string>813 Lord Who May Dwell In Your Sanctuary
+<key>814_The_Requirements_Of_God</key>
+<string>814 The Requirements Of God
+<key>815_Watchfulness</key>
+<string>815 Watchfulness
+<key>816_Preparation_For_Christ's_Coming</key>
+<string>816 Preparation For Christ's Coming
+<key>817_Christian_Warfare</key>
+<string>817 Christian Warfare
+<key>818_When_The_Lord_Brought_Back_The_Captives</key>
+<string>818 When The Lord Brought Back The Captives
+<key>819_I_Cry_Aloud_To_The_Lord</key>
+<string>819 I Cry Aloud To The Lord
+<key>820_Tithes_And_Offerings</key>
+<string>820 Tithes And Offerings
+<key>821_Generosity</key>
+<string>821 Generosity
+<key>822_Our_Daily_Work</key>
+<string>822 Our Daily Work
+<key>823_Temperance</key>
+<string>823 Temperance
+<key>824_Healthful_Living</key>
+<string>824 Healthful Living
+<key>825_Our_Civic_Duties</key>
+<string>825 Our Civic Duties
+<key>826_Family_Life</key>
+<string>826 Family Life
+<key>827_The_Christian_Home</key>
+<string>827 The Christian Home
+<key>828_Youth</key>
+<string>828 Youth
+<key>829_A_Noble_Wife</key>
+<string>829 A Noble Wife
+<key>830_Marriage</key>
+<string>830 Marriage
+<key>831_The_Song_Of_Moses_And_Of_Israel</key>
+<string>831 The Song Of Moses And Of Israel
+<key>832_Out_Of_The_Depths</key>
+<string>832 Out Of The Depths
+<key>833_Holy_Holy_Holy_(the_Sanctus)</key>
+<string>833 Holy Holy Holy (the Sanctus)
+<key>834_The_Lord's_Prayer</key>
+<string>834 The Lord's Prayer
+<key>835_The_Song_Of_Mary</key>
+<string>835 The Song Of Mary
+<key>836_Zacharias'_Prophecy</key>
+<string>836 Zacharias' Prophecy
+<key>837_Simeon's_Prayer</key>
+<string>837 Simeon's Prayer
+<key>838_Paul's_Doxology</key>
+<string>838 Paul's Doxology
+<key>839_Spiritual_Wisdom</key>
+<string>839 Spiritual Wisdom
+<key>840_Things_Seen_And_Unseen</key>
+<string>840 Things Seen And Unseen
+<key>841_The_Plan_Of_Salvation</key>
+<string>841 The Plan Of Salvation
+<key>842_On_The_Incarnation</key>
+<string>842 On The Incarnation
+<key>843_In_Praise_Of_Christ</key>
+<string>843 In Praise Of Christ
+<key>844_The_Incarnate_Word</key>
+<string>844 The Incarnate Word
+<key>845_Call_To_Worship</key>
+<string>845 Call To Worship
+<key>846_Call_To_Worship</key>
+<string>846 Call To Worship
+<key>847_Call_To_Worship</key>
+<string>847 Call To Worship
+<key>848_Call_To_Worship</key>
+<string>848 Call To Worship
+<key>849_Call_To_Worship</key>
+<string>849 Call To Worship
+<key>850_Call_To_Worship</key>
+<string>850 Call To Worship
+<key>851_Call_To_Worship</key>
+<string>851 Call To Worship
+<key>852_Call_To_Worship</key>
+<string>852 Call To Worship
+<key>853_Call_To_Worship</key>
+<string>853 Call To Worship
+<key>854_Call_To_Worship</key>
+<string>854 Call To Worship
+<key>855_Call_To_Worship</key>
+<string>855 Call To Worship
+<key>856_Call_To_Worship</key>
+<string>856 Call To Worship
+<key>857_Call_To_Worship</key>
+<string>857 Call To Worship
+<key>858_Call_To_Worship</key>
+<string>858 Call To Worship
+<key>859_Call_To_Worship</key>
+<string>859 Call To Worship
+<key>860_Call_To_Worship</key>
+<string>860 Call To Worship
+<key>861_Call_To_Worship</key>
+<string>861 Call To Worship
+<key>862_Call_To_Worship</key>
+<string>862 Call To Worship
+<key>863_Call_To_Worship</key>
+<string>863 Call To Worship
+<key>864_Call_To_Worship</key>
+<string>864 Call To Worship
+<key>865_Call_To_Worship</key>
+<string>865 Call To Worship
+<key>866_Call_To_Worship</key>
+<string>866 Call To Worship
+<key>867_Call_To_Worship</key>
+<string>867 Call To Worship
+<key>868_Call_To_Worship</key>
+<string>868 Call To Worship
+<key>869_Call_To_Worship</key>
+<string>869 Call To Worship
+<key>870_Call_To_Worship</key>
+<string>870 Call To Worship
+<key>871_Call_To_Worship</key>
+<string>871 Call To Worship
+<key>872_Call_To_Worship</key>
+<string>872 Call To Worship
+<key>873_Call_To_Worship</key>
+<string>873 Call To Worship
+<key>874_Call_To_Worship</key>
+<string>874 Call To Worship
+<key>875_Call_To_Worship</key>
+<string>875 Call To Worship
+<key>876_Call_To_Worship</key>
+<string>876 Call To Worship
+<key>877_Call_To_Worship</key>
+<string>877 Call To Worship
+<key>878_Call_To_Worship</key>
+<string>878 Call To Worship
+<key>879_Call_To_Worship</key>
+<string>879 Call To Worship
+<key>880_Call_To_Worship</key>
+<string>880 Call To Worship
+<key>881_Words_Of_Assurance</key>
+<string>881 Words Of Assurance
+<key>882_Words_Of_Assurance</key>
+<string>882 Words Of Assurance
+<key>883_Words_Of_Assurance</key>
+<string>883 Words Of Assurance
+<key>884_Words_Of_Assurance</key>
+<string>884 Words Of Assurance
+<key>885_Words_Of_Assurance</key>
+<string>885 Words Of Assurance
+<key>886_Words_Of_Assurance</key>
+<string>886 Words Of Assurance
+<key>887_Words_Of_Assurance</key>
+<string>887 Words Of Assurance
+<key>888_Words_Of_Assurance</key>
+<string>888 Words Of Assurance
+<key>889_Words_Of_Assurance</key>
+<string>889 Words Of Assurance
+<key>890_Words_Of_Assurance</key>
+<string>890 Words Of Assurance
+<key>891_Words_Of_Assurance</key>
+<string>891 Words Of Assurance
+<key>892_Words_Of_Assurance</key>
+<string>892 Words Of Assurance
+<key>893_Words_Of_Assurance</key>
+<string>893 Words Of Assurance
+<key>894_Offertory_Sentences</key>
+<string>894 Offertory Sentences
+<key>895_Offertory_Sentences</key>
+<string>895 Offertory Sentences
+<key>896_Offertory_Sentences</key>
+<string>896 Offertory Sentences
+<key>897_Offertory_Sentences</key>
+<string>897 Offertory Sentences
+<key>898_Offertory_Sentences</key>
+<string>898 Offertory Sentences
+<key>899_Offertory_Sentences</key>
+<string>899 Offertory Sentences
+<key>900_Offertory_Sentences</key>
+<string>900 Offertory Sentences
+<key>901_Offertory_Sentences</key>
+<string>901 Offertory Sentences
+<key>902_Offertory_Sentences</key>
+<string>902 Offertory Sentences
+<key>903_Offertory_Sentences</key>
+<string>903 Offertory Sentences
+<key>904_Offertory_Sentences</key>
+<string>904 Offertory Sentences
+<key>905_Offertory_Sentences</key>
+<string>905 Offertory Sentences
+<key>906_Offertory_Sentences</key>
+<string>906 Offertory Sentences
+<key>907_Benedictions</key>
+<string>907 Benedictions
+<key>908_Benedictions</key>
+<string>908 Benedictions
+<key>909_Benedictions</key>
+<string>909 Benedictions
+<key>910_Benedictions</key>
+<string>910 Benedictions
+<key>911_Benedictions</key>
+<string>911 Benedictions
+<key>912_Benedictions</key>
+<string>912 Benedictions
+<key>913_Benedictions</key>
+<string>913 Benedictions
+<key>914_Benedictions</key>
+<string>914 Benedictions
+<key>915_Benedictions</key>
+<string>915 Benedictions
+<key>916_Benedictions</key>
+<string>916 Benedictions
+<key>917_Benedictions</key>
+<string>917 Benedictions
+<key>918_Benedictions</key>
+<string>918 Benedictions
+<key>919_Benedictions</key>
+<string>919 Benedictions
+<key>920_Benedictions</key>
+<string>920 Benedictions
